@@ -6,7 +6,7 @@ Hack/Exploits for https://krunker.io/
 - Join discord server https://discord.gg/tQ4HBtanRy
 
 ### Features:
-- Aimbot (Triggerbot, Auto pick, Silent aimbot, Aim assist, Aim correction, and MORE!!
+- Aimbot (Triggerbot, Auto pick, Silent aimbot, Aim assist, Aim correction, and MORE!!)
 - Spin aimbot speed
 - Aim range
 - Aim offset
