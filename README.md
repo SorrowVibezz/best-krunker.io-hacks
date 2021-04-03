@@ -22,3 +22,5 @@ Hack/Exploits for https://krunker.io/
 ## KeyBinds:
 - Y to active aimbot in game
 - H to activate ESP. **(Special if you press H 3 times each there's different ESPs test for your self!)**
+
+**ADDING MORE STUFF TO THIS SO STAY TUNED!!**
