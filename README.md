@@ -17,8 +17,8 @@ Hack/Exploits for https://krunker.io/
 - FOV box
 - FOV box size
 - ESP
-- AND THERES MUCH MORE TRUST ME!!
+- **AND THERES MUCH MORE TRUST ME!!**
 
 ## KeyBinds:
 - Y to active aimbot in game
-- H to activate ESP. **(Special if you press H 3 times each there's different ESPs test for your self!)
+- H to activate ESP. **(Special if you press H 3 times each there's different ESPs test for your self!)**
