@@ -2,7 +2,7 @@
 Hack/Exploits for https://krunker.io/
 
 ### Requirements:
-- Tampermonkey
+- Tampermonkey (chrome extension) to download [CLICK HERE](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 - Join discord server https://discord.gg/tQ4HBtanRy
 
 ### Features:
